@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .env
 .streamlit/
+phase3-google-ai-plan.md
