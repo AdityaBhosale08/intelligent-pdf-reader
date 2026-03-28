@@ -1,0 +1,27 @@
+CHUNK SIZE COMPARISON RESULTS
+============================================================
+
+Document: A_Brief_Introduction_To_AI.pdf
+Total characters: 12328
+
+Chunk Size: 500
+  Number of chunks: 31
+  Average chunk length: 494.5
+  Min chunk length: 328
+  Max chunk length: 500
+  Recommendation: Good for precise Q&A but may lose context
+
+Chunk Size: 1000
+  Number of chunks: 14
+  Average chunk length: 973.4
+  Min chunk length: 628
+  Max chunk length: 1000
+  Recommendation: RECOMMENDED - Best balance for most use cases
+
+Chunk Size: 2000
+  Number of chunks: 7
+  Average chunk length: 1846.9
+  Min chunk length: 928
+  Max chunk length: 2000
+  Recommendation: Good for summarization, less ideal for precise Q&A
+
